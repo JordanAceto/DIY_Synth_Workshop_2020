@@ -6,7 +6,7 @@
 ## How to order parts:
 1. Determine how many kits you want. About 25 ~ 30 has worked well in the past.
 
-2. Open the BOM.
+2. Download and open the BOM.
 
 3. Buy the Mouser Parts:
     1. In the BOM, follow the link on row 16 to the saved Mouser project page for a single kit.
