@@ -1,5 +1,7 @@
 # Materials and Information for a simple DIY Synth workshop.
 
+<img src="workshop_docs/layout.png" width="800" />
+
 ## What it is: 
 - A breadboard square wave oscillator that is controlled by a Light Dependent Resistor, with a tiny speaker.
 - Typically, a presenter will walk through the construction of a breadboard alongside 25 to 30 participants, who each have their own kit to build.
