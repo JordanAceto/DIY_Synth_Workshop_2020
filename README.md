@@ -1,7 +1,15 @@
 # Materials and Information for a simple DIY Synth workshop.
 
 ## What it is: 
-- A breadboard square wave oscillator that is controlled by a Light Dependent Resistor, and a tiny speaker.
+- A breadboard square wave oscillator that is controlled by a Light Dependent Resistor, with a tiny speaker.
+- Typically, a presenter will walk through the construction of a breadboard alongside 25 to 30 participants, who each have their own kit to build.
+- This is intended for people with little to no electronics experience. The circuit is very basic, but makes a fun little noisemaker.
+- People as young as 12 or so can probably build it on their own. Children as young as 5 have built them with assistance.
+
+## How to use this repository:
+- The workshop_docs directory contains the materials needed to conduct the workshop. This is in an unfinished state currently, but eventually it will contain a step-by-step pictoral walkthrough for building the breadboard circuit. This walkthrough is typically projected on a large screen that everybody can see.
+
+- The development_docs directory contains kicad schematics, fritzing layouts, and a BOM for the workshop. Unless you are modifying the project, you don't need to go in here. If you do want to modify the project, you'll need the kicad and fritzing programs to open and modify the included files.
 
 ## How to order parts:
 1. Determine how many kits you want. About 25 ~ 30 has worked well in the past.
