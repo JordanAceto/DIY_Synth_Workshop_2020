@@ -6,20 +6,18 @@
 ## How to order parts:
 1. Determine how many kits you want. About 25 ~ 30 has worked well in the past.
 
-2. Download and open the BOM.
-
-3. Buy the Mouser Parts:
-    1. In the BOM, follow the link on row 16 to the saved Mouser project page for a single kit.
+2. Buy the Mouser Parts:
+    1. Follow this [link](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?State=EDIT&ProjectGUID=3b75a461-58cb-41e8-8639-0240dbf1eebd) to the  Mouser project page for a single kit.
     2. On the Mouser page, next to the green "Order Project" button, enter the number of kits desired.
     3. Note that you may want to order an extra kit or two, in case someone breaks or looses something.
     4. Click the "Order Project" button to place the parts in a Mouser cart.
-    5. In the BOM, follow the link on row 18 to the Jumper Wire Kit on Mouser.
+    5. Follow this [link](https://www.mouser.com/ProductDetail/517-923351-I) to the Jumper Wire Kit on Mouser.
     6. Each Jumper Wire Kit has enough wire for about 30 kits.
     7. Add the required number of Jumper Wire Kits to the existing Mouser cart with the green "Buy" button.
     8. Complete the Mouser order.
 
-4. Buy the Light Dependent Resistors:
-    1. In the BOM, follow the link on row 20 to the Light Dependent Resistor page on the Small Bear Electronics website.
+3. Buy the Light Dependent Resistors:
+    1. Follow this [link](http://smallbear-electronics.mybigcommerce.com/photocells-cds-5mm-diameter/) to the Light Dependent Resistor page on the Small Bear Electronics website.
     2. Choose option "9200". (If this option is out of stock, substitute another option).
     3. Buy the desired number of Light Dependent Resistors, one LRD per kit.
     4. Complete the purchase for the Light Dependent Resistors on the Small Bear site.
