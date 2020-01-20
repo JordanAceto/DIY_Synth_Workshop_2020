@@ -45,5 +45,6 @@
     - Fritzing for capturing layouts. Fritzing has some annoying kinks, but it does the job.
     - LibreOffice Calc to generate the BOM spreadsheet. The BOM can be opened with Microsoft Excel.
     - LibreOffice Impress to generate the PowerPoint-like pictoral walkthough. The walkthrough can be opened with Microsoft PowerPoint.
+    - Anyone wishing to modify or add to this workshop is welcome to download the materials here, install some free software, and go to town.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
