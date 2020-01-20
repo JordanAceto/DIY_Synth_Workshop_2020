@@ -4,12 +4,12 @@
 
 ## What it is: 
 - A breadboard square wave oscillator that is controlled by a Light Dependent Resistor, with a tiny speaker.
-- Typically, a presenter will walk through the construction of a breadboard alongside 25 to 30 participants, who each have their own kit to build.
+- The potentiometer acts as a combo volume and rudimentary tone control.
 - This is intended for people with little to no electronics experience. The circuit is very basic, but makes a fun little noisemaker.
 - People as young as 12 or so can probably build it on their own. Children as young as 5 have built them with assistance.
 
 ## How to use this repository:
-- The workshop_docs directory contains the materials needed to conduct the workshop. This contains a step-by-step pictoral walkthrough for building the breadboard circuit. This walkthrough is typically projected on a large screen that everybody can see.
+- The workshop_docs directory contains a step-by-step pictoral walkthrough for building the breadboard circuit. This walkthrough is typically projected on a large screen that everybody can see. Typically, a presenter will walk through the construction of a breadboard alongside 25 to 30 participants, who each have their own kit to build.
 
 - The development_docs directory contains kicad schematics, fritzing layouts, and a BOM for the workshop. Unless you are modifying the project, you don't need to go in here. If you do want to modify the project, you'll need to install the kicad and fritzing programs to open and modify the schematic and layout files.
 
@@ -38,5 +38,12 @@
 - Some of the Jumper Wires will need to be trimmed and bent to suit the layout.
 - The parts should be counted and sorted into individual kits ahead of time.
 - Do a test build to verify that everything works as expected.
+
+## A note about the software used to develop this workshop:
+- Efforts were made to use only free, open source, and multi-platform software to develop these materials.
+    - Kicad for capturing schematics. Kicad is a mature and well supported suite for electronic design.
+    - Fritzing for capturing layouts. Fritzing has some annoying kinks, but it does the job.
+    - LibreOffice Calc to generate the BOM spreadsheet. The BOM can be opened with Microsoft Excel.
+    - LibreOffice Impress to generate the PowerPoint-like pictoral walkthough. The walkthrough can be opened with Microsoft PowerPoint.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
